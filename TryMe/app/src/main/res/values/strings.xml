@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TryMe</string>
+    <string name="button">Button</string>
+    <string name="try_me">TRY ME!</string>
+</resources>

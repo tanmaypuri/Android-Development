@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MetersToInches</string>
+    <string name="convert">Convert</string>
+    <string name="enter_in_meters">Enter in Meters</string>
+    <string name="image_name">TODO</string>
+    <string name="textview_name">TextView</string>
+    <string name="image_name">TODO</string>
+</resources>

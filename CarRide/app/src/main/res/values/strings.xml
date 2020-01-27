@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CarRide</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="contact">Contact No</string>
+    <string name="gender">Gender</string>
+    <string name="email">Email</string>
+    <string name="licence">Licence</string>
+    <string name="name">Name</string>
+    <string name="car_details">Car details</string>
+    <string name="number_of_seats">Number of Seats</string>
+    <string name="rc_number">RC Number</string>
+    <string name="price_per_seat">Price per Seat</string>
+    <string name="time">Time eg. HH:MM am/pm</string>
+    <string name="date">Date eg. DD/MM/YY</string>
+    <string name="location_details">Location Details</string>
+    <string name="leaving_from">Leaving From</string>
+    <string name="going_to">Going To</string>
+    <string name="next">Next</string>
+    <string name="serachbtn">Search</string>
+    <string name="driverName">Tanmay</string>
+    <string name="driver_name">Tanmay</string>
+    <string name="drivergender">Male</string>
+    <string name="contactno">12345678890</string>
+    <string name="leaving">Leaving From</string>
+    <string name="going">Going To</string>
+    <string name="pat">pat</string>
+    <string name="chd">chd</string>
+    <string name="abc">abc</string>
+    <string name="hlo">hello</string>
+    <string name="cavy">cavy</string>
+</resources>

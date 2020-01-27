@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">CarPool</string>
+    <string name="sign_up">Register</string>
+    <string name="contact_no">Contact No.</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up_button">SIGN UP</string>
+    <string name="name">Full Name</string>
+    <string name="login_username">Contact No.</string>
+    <string name="Log_in">LOGIN HERE</string>
+    <string name="login_password">Password</string>
+    <string name="log_in_button">LOGIN</string>
+    <string name="sign_up_here">Sign Up Here</string>
+    <string name="give_a_ride">Give a Ride</string>
+    <string name="get_a_ride">Get a Ride</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="name_of_driver">Name</string>
+    <string name="driver_contact">Mobile No.</string>
+    <string name="driver_email">Email Id</string>
+    <string name="driver_licenceNo">Licence Number</string>
+    <string name="driver_gender">Gender</string>
+    <string name="driver_male">M</string>
+    <string name="female">F</string>
+    <string name="other">Other</string>
+    <string name="next_buuton">Next</string>
+    <string name="location_details">Location Details</string>
+    <string name="leaving_from">Leaving from</string>
+    <string name="going_to">Going to</string>
+
+
+    <string name="location_next_button">Next</string>
+    <string name="details_registered_successfully">Details Registered Successfully :)</string>
+    <string name="date_of_driver">Date</string>
+    <string name="select_date">__/__/__</string>
+    <string name="selectdate">Select a Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="cost_per_seat">Cost per Seat</string>
+    <string name="find_a_ride">Find A Ride</string>
+    <string name="leavingFrom">Leaving From</string>
+    <string name="goingTo">Going To</string>
+    <string name="selectDate">Select a Date</string>
+    <string name="selectTime">select time</string>
+    <string name="nxt">next</string>
+    <string name="car_name">Car Name</string>
+    <string name="car_details">Car Details</string>
+    <string name="no_ofSeats">No. of Seats</string>
+    <string name="rcNo">RC Number</string>
+    <string name="price">Price per Seat</string>
+    <string name="btcarnext">Next</string>
+    <string name="emailid">Email Address</string>
+
+
+</resources>
